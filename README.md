@@ -50,7 +50,7 @@ DELIVERABLE: Identify the deliverable in detail. The deliverable can be anything
 
 SCOPE: Make sure the deliverable and idea support drafting the project in the available time. At the end of the 6ish-hour hackathon every team will have to present their work. If the project is too complex 3-days may not be enough time to make sufficient progress. However, there is no expectation that the project is release-ready in 3 days! The hackathon should serve just jumpstart projects!
 
-DATA: Make sure data and software needed are available. Inform the participants ahead of time if they will need to install of download anything. It should be allowed to join the project even if people did not do this preparation, but encourage anyone who is considering doing your project to prepare as needed. If you can, create a docker for your software - this will greatly help not wasting time at the beginning of the project! If the needed data is big let the organizers know: they may be able to put it on physical drives for faster download on site.
+DATA: Make sure data and software needed are available. Inform the participants ahead of time if they will need to install or download anything. It should be allowed to join the project even if people did not do this preparation, but encourage anyone who is considering doing your project to prepare as needed. If you can, create a docker for your software - this will greatly help not wasting time at the beginning of the project! If the needed data is big let the organizers know: they may be able to put it on physical drives for faster download on site.
 
 SKILLS: Identify the needed skills to accomplish the project. People with the needed skills can self-identify to you as you assemble your team. 
 
