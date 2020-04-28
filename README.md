@@ -24,7 +24,7 @@ You do not need any specific technical expertise to participate: Although techni
 Meet the organizers and the other participants on Thursday 8th 4:30-6PM. This meeting is optional, but it is a great opportunity to ask questions about how hackathons proceed, about the three tracks, and about any project ideas you might have. 
 
 
-## Thursday: 9 - 6PM Hackathon!
+## Friday: 9 - 6PM Hackathon!
 
 9 - 10AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
 
