@@ -1,4 +1,4 @@
-# COVID19hacathon
+# COVID19 UD hackathon
 
 
 HACKATHON HOWTO:
