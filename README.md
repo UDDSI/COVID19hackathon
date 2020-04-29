@@ -58,3 +58,5 @@ PITCH: Prepare a 2 minutes presentation, your project pitch, which will be shown
 
 TEAM: after the pitches, every pitcher will assemble their team. People should be allowed to work on whatever they want, though you may call out for someone with a specific skill at the end of the team assembly to see if someone wants to switch team or just land an occasional hand when needed while working on another project.
 Though you do not have to you are all encouraged to pitch an idea!! Even if you have not thought about it till the day before!
+
+[Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event and join our [slack](https://join.slack.com/t/udcovidhackathon/shared_invite/zt-dwgjrohv-b3MCkdDFk5fokbjdzMFuSA)
