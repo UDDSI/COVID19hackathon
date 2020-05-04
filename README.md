@@ -1,4 +1,5 @@
 # COVID19 UD hackathon
+![hackathon Logo](unnamed.png)
 
 
 HACKATHON HOWTO:
