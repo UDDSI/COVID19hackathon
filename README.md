@@ -2,9 +2,9 @@
 ![hackathon Logo](unnamed.png)
 
 
-HACKATHON HOWTO:
+## HACKATHON HOWTO:
 
-A Hackathon is generally a colocated event where people tackle specific challenges in small groups to produce rapid results that outline issues and promising approaches to solutions. At this time, COVID-19 certainly poses many challenges, and it also forces events to online platforms. This online Hackathon will focus on Delaware specific challenges related to the ongoing pandemic. This is not an epidemiological hackathon. Rather, we will look at how the COVID crisis and response is affecting Delaware
+A Hackathon is an event where people tackle specific challenges in small groups to produce rapid results that outline issues and promising approaches to solutions. At this time, COVID-19 certainly poses many challenges, and it also forces us to be separated, and  UD events to online platforms. This online Hackathon will focus on Delaware specific challenges related to the ongoing pandemic. This is not an epidemiological hackathon. Rather, we will look at how the COVID crisis and response is affecting Delaware and Delawareans
 
 ## Tracks: 
 1. Effectiveness of the DE response to COVID challenges compared to similar and neighboring States
