@@ -12,7 +12,7 @@
 [web dev, coding (what language), writers, graphic designers…. Be broad so people do not feel left out if they cannot code proficiently! It is a team effort!]
 
 ## DATA: 
-[data links - this we can work on together but by tuesday the data has to be identified 
+[data links - this we can work on together but by tuesday the data has to be identified example: 
 EPA data: https://www.epa.gov/outdoor-air-quality-data
 DNREC: https://dnrec.alpha.delaware.gov/air/quality/monitoring/ ]
 
