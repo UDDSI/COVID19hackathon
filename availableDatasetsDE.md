@@ -1,5 +1,3 @@
-Publicly Available Delaware Data Sources:
-
 [Census Quick Facts - Census] (https://www.census.gov/quickfacts/DE)
 [Coronavirus Dashboard - DelDPH] (https://coronavirus.delaware.gov/)
 [Delaware Coronavirus Data - DelDHSS] (https://myhealthycommunity.dhss.delaware.gov/locations/state)
