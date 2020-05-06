@@ -11,4 +11,4 @@ Tags: image proessing
 - [Response Track: Political Communication from Twitter Sentiment](https://github.com/UDDSI/COVID19hackathon/tree/master/projects/ResponseTrack/Political_Communication_from_Twitter_Sentiment)
 Tags: data collection, data processing, data fusion, NLP, writing
 - [Support Track: Equitable Access to Digital Healthcare and Education](https://github.com/UDDSI/COVID19hackathon/tree/master/projects/SupportTrack/Equitable_Access_to_Digital_Healthcare_and_Education)
-Tags: data collection, data processing, data fusion, visualizations, census
+Tags: data collection, data processing, data fusion, visualizations, mapping, census
