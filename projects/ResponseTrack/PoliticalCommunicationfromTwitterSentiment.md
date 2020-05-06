@@ -4,7 +4,8 @@
 Ben Bagozzi
 
 ## PROBLEM STATEMENT: 
-**TL;DR: This project is proposing that we derive measures from DE government-COVID-19 communications, so as to evaluate whether these communications influenced the sentiment of DE citizens with respect to the COVID-19 crisis, as measured via the sentiment of tweets on COVID-19 geolocated to DE. The findings could potentially give insight into (i) the key features of 'effective' government health communication during COVID-19, and (ii) whether DE Twitter users' COVID-19 discourse was at all responsive to local public COVID-19 communications.
+**TL;DR: This project is proposing that we derive measures from DE government-COVID-19 communications, so as to evaluate whether these communications influenced the sentiment of DE citizens with respect to the COVID-19 crisis, as measured via the sentiment of tweets on COVID-19 geolocated to DE. The findings could potentially give insight into (i) the key features of 'effective' government health communication during COVID-19, and (ii) whether DE Twitter users' COVID-19 discourse was at all responsive to local public COVID-19 communications.**
+
 
 Effective government communication during public health crises can play an important role both in managing the crisis itself and in demonstrating broader government competency. Yet governments often exhibit variation in the (in)effectiveness of their communications during these periods due to a variety of real-time constraints and competing incentives. The DE government’s response to the current COVID-19 pandemic provides one means of examining the effectiveness of government communication in the context of an emerging public health crisis. Such an evaluation can aid in identifying and establishing ‘best practices’ for political communication over COVID-19 issues at regional, and local (as opposed to national) levels.
 
