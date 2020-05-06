@@ -34,7 +34,7 @@ Some potential data resources:
 
 ## TEAM
 # Mentors 
-Sally Dodson-Robinson, Greg Dobler (@gdobler)
+Sally Dodson-Robinson (@sdrastro, Greg Dobler (@gdobler)
 
 ## Participants
 
