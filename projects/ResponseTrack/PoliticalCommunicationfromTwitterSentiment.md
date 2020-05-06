@@ -15,7 +15,7 @@ To implement the above idea in a hackathon context, I am proposing that we evalu
 ## DELIVERABLE: 
 Two interrelated deliverables could be: 
 - Statistical assessment: a write-up of an initial statistical assessment of whether the DE government’s communications regarding COVID-19 influenced DE Twitter sentiment on COVID-19. 
-- Best Practices: A corresponding summary of any identified ‘best/worst’-practices associated with (DE) government communications in this regard, with specific recommendations based on these for public/policy audiences.
+- Reccomandations: a corresponding summary of any identified ‘best/worst’-practices associated with (DE) government communications in this regard, with specific recommendations based on these for public/policy audiences.
 
 ## SKILLS NEEDED: 
 - Expertise/interest in collecting and working with large numbers of geolocated tweets, and in subsetting geolocated data by geographic (e.g., US state) boundaries.
