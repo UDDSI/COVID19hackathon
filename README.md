@@ -13,7 +13,7 @@ A Hackathon is an event where people tackle specific challenges in small groups 
 
 3. Environmental impact of the shutdown 
 
-Within each track, we will propose some hacks, but we also encourage you to propose projects (there is a dedicated slack channel for discussion of potential projects). 
+Within each track, we [proposed and specced some hacks](projects/README.md), but we also encourage you to propose projects (there is a dedicated slack channel \#ideas for discussion of potential projects). 
 
 You do not need any specific technical expertise to participate: Although technical skills are welcome, and some of the projects will require coders and data experts, some will require writers, graphic designers, sociologists, and generally enthusiastic people willing to help! 
 
