@@ -1,4 +1,5 @@
 # Political Communication and Twitter Sentiment
+**TAGS: Coding, data collection, data processing, data fusion, NLP, writing**
 
 # Proposer: 
 Ben Bagozzi
