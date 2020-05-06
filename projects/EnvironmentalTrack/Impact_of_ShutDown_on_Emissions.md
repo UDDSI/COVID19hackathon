@@ -4,7 +4,7 @@
 # Proposer: 
 Prof. Sally Dodson-Robinson; Prof. Greg Dobler
 
-## PROBLEM STATEMENT: 
+## PROBLEM STATEMENT: https://github.com/UDDSI/COVID19hackathon/tree/master/projects/EnvironmentalTrack
 **TL;DR In this project, groups will use publicly available data from air-pollution monitoring stations to explore the effects of 
 COVID19-related shutdowns on air quality.**
 
