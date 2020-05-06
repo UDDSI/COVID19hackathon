@@ -36,7 +36,7 @@ Data for measuring the public effectiveness of communication communication: Base
 Control data corresponding to the specific daily numbers of COVID-19 cases in DE and nationally for the February 1st - May 6th period would need to be collected and merged to the above data.
 ## TEAM:
 ### Mentors
-Ben Bagozzi, Federica Bianco (@fedhere) Chuming Chen () Greg Doble (@gdobler)
+Ben Bagozzi (@bagozzib), Federica Bianco (@fedhere) Chuming Chen (@chenchuming) Greg Dobler (@gdobler)
 the person pitching the idea (likely will be the person who will pitch the idea at the event)
 
 ### Participants
