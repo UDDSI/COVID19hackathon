@@ -46,5 +46,4 @@ Some potential data resources:
 Sally Dodson-Robinson (@r29er) Greg Dobler (@gdobler)
 
 ## Participants
-interested organizers sign up here
 
