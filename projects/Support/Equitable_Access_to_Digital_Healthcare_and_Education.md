@@ -1,4 +1,5 @@
 # Equitable access to digital healthcare and education
+**TAGS: Coding, GIS, data collection, data processing, data fusion, visualizations**
 
 ## Proposer: 
 Federica Bianco (original idea Mia Papas & Tze Chiam)
