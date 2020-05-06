@@ -23,6 +23,6 @@ The data is available to use or any other Hackathorn idea or and any specialized
 
 ## TEAM
 ### Mentors
-Cotton Chase (@fedhere) Chuming Chen (@chenchuming)
+Cotton Chase Chuming Chen (@chenchuming)
 
 ### Participants
