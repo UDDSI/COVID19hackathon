@@ -8,6 +8,7 @@ Schema: First column: tweet ID, Second column: Sentiment score for the particula
 Combined File Local Download link: 
 https://annotation.dbi.udel.edu/chenc/covid-19-twitter/IEEE-covid-19-twitter.csv (File Size: 1.8G)
 
+To load data into pandas:
 ```python
 import pandas as pd 
 
