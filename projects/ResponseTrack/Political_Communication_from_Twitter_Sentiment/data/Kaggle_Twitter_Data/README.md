@@ -44,6 +44,6 @@ Load data into pandas:
 ```python
 import pandas as pd 
 
-data = pd.read_csv("Kaggle-cvoid-19-twitter.csv", delimiter=",", engine="python", encoding='utf-8')) 
+data = pd.read_csv("Kaggle-cvoid-19-twitter.csv", delimiter=",", engine="python", encoding='utf-8') 
 data.head()
 ```
