@@ -5,7 +5,7 @@
 **TL;DR. Be respectful and kind. Harassment and abuse are
 not tolerated. If you are in a situation that makes you uncomfortable or
 unsafe please consult one of the organizers by direct message on slack
-or by email.
+or by email.**
 
 Harassment includes but is not limited to:
 intimidation, online stalking, harassing, belittling, recording images
