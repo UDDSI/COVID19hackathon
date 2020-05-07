@@ -5,7 +5,7 @@ Schema: First column: tweet ID, Second column: Sentiment score for the particula
 
 (March 20, 2020 01:37 AM - May 07, 2020 09:33 AM)
 
-Individual file local download link:
+Individual file local download folder:
 
 https://annotation.dbi.udel.edu/chenc/covid-19-twitter/IEEE-covid-19-twitter-raw/
 
