@@ -40,6 +40,6 @@ To load data into pandas:
 ```python
 import pandas as pd 
 
-data = pd.read_csv("Kaggle-cvoid-19-twitter.csv") 
+data = pd.read_csv("Kaggle-cvoid-19-twitter.csv", delimiter=",", engine="python", encoding='utf-8')) 
 data.head()
 ```
