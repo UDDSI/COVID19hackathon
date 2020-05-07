@@ -14,7 +14,7 @@ https://annotation.dbi.udel.edu/chenc/covid-19-twitter/Kaggle-cvoid-19-twitter-r
 
 Combined file local download link: 
 
-https://annotation.dbi.udel.edu/chenc/covid-19-twitter/Kaggle-cvoid-19-twitter.csv (File size: 8.9G, Total Tweets: 66,864,334)
+https://annotation.dbi.udel.edu/chenc/covid-19-twitter/Kaggle-cvoid-19-twitter.csv (File size: 8.9G, Total Tweets: 66,864,333)
 
 Columns
 1. status_id - The ID of the actual Tweet.
