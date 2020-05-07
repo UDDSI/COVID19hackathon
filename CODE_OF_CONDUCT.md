@@ -1,4 +1,4 @@
-[](images/image1.jpg)
+![](images/image1.jpg)
 
 # Code of conduct
 
