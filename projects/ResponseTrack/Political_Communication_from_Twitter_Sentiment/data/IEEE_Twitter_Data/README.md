@@ -11,7 +11,7 @@ https://annotation.dbi.udel.edu/chenc/covid-19-twitter/IEEE-covid-19-twitter-raw
 
 Combined file local download link: 
 
-https://annotation.dbi.udel.edu/chenc/covid-19-twitter/IEEE-covid-19-twitter.csv (File Size: 1.8G)
+https://annotation.dbi.udel.edu/chenc/covid-19-twitter/IEEE-covid-19-twitter.csv (File Size: 1.8G, Total Tweets: 67,851,686)
 
 Load data into pandas:
 ```python
