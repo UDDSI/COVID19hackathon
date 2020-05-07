@@ -13,4 +13,4 @@ Tags: data collection, data processing, data fusion, NLP, writing
 - [Support Track: Equitable Access to Digital Healthcare and Education](https://github.com/UDDSI/COVID19hackathon/tree/master/projects/SupportTrack/Equitable_Access_to_Digital_Healthcare_and_Education)
 Tags: data collection, data processing, data fusion, visualizations, mapping, census
 - [SupportTrack: Socioeconomic Vulnerability and COVID19](https://github.com/UDDSI/COVID19hackathon/tree/master/projects/SupportTrack/Socioeconomic_Vulnerability_and_COVID19.md)
-TAGS: Coding, GIS, data manipulation, data fusion, visualizations, predictive modeling, web design, census
+Tags: Coding, GIS, data manipulation, data fusion, visualizations, predictive modeling, web design, census
