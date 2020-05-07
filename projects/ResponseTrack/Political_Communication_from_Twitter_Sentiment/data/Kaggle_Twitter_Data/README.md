@@ -36,7 +36,7 @@ Columns
 21. verified - Whether the account that Tweeted is verified.
 22. lang - The language of the Tweet.
 
-To load data into pandas:
+Load data into pandas:
 ```python
 import pandas as pd 
 
