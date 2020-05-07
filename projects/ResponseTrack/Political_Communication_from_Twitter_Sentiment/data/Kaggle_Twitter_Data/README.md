@@ -8,7 +8,7 @@
 
 (March 4, 2020 - Apirl 30, 2020)
 
-Combined File Local Download link: 
+Combined file local download link: 
 
 https://annotation.dbi.udel.edu/chenc/covid-19-twitter/Kaggle-cvoid-19-twitter.csv (File size: 8.9G)
 
