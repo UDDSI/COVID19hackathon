@@ -33,8 +33,8 @@ Some potential data resources:
 - https://drive.google.com/open?id=1vIGKyc7H8ENapL_uFc_gzDPVTJxVUuhg
 
 ## TEAM
-# Mentors 
-Sally Dodson-Robinson (@sdrastro, Greg Dobler (@gdobler)
+### Mentors 
+Sally Dodson-Robinson (@sdrastro), Greg Dobler (@gdobler)
 
-## Participants
+### Participants
 
