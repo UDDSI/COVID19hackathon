@@ -2,7 +2,7 @@
 **TAGS: Image proessing**
 
 ## Proposer:
-Cotton Chase
+Cotton Chase  :-)
 
 ## PROBLEM STATEMENT:
 **TL;DR Using vehicle traffic data to analyze traffic reduction and compliance to ordinances in the current COVID-19 crisis**
