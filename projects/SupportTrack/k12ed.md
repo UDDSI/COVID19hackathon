@@ -7,9 +7,9 @@ Andrew Novocin
 ## PROBLEM STATEMENT
 
 **TL;DR Are future student trajectories damaged by the quarantine?**
+We will build virtualized STEAM curriculum that UD students will deliver online to middle schoolers this summer.
 
 ## DELIVERABLE:
-We will build virtualized STEAM curriculum that UD students will deliver online to middle schoolers this summer.
 - Have at least one interactive experience covering at least one appropriate topic.
  
 ## SKILLS NEEDED: 
