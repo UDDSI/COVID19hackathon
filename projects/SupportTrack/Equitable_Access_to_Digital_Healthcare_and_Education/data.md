@@ -1,5 +1,5 @@
 ## census data
-(https://www.census.gov/data/developers/data-sets.html)[https://www.census.gov/data/developers/data-sets.html]
+[https://www.census.gov/data/developers/data-sets.html](https://www.census.gov/data/developers/data-sets.html)
 
 [c_geographyLink](https://api.census.gov/data/2016/acs/acs1/profile/geography.json)
 
