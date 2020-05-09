@@ -1,6 +1,24 @@
 # COVID19 UD hackathon
-![hackathon Logo](unnamed.png)
 
+## 6:
+awesome projects! - check out the project folder to find the final presentation slides and more
+
+## 5 : 
+hours of writing, coding, visualizing, brainstorming, discussing 
+
+## 4: 
+minutes for each project to share results and lessons learned
+
+## 3: 
+project tracks to understand the impact of COVID on Delaware and Delawareans and help our community
+
+## 2:
+weeks of planning
+
+## 1: 
+connected UD community! 
+
+![hackathon Logo](unnamed.png)
 
 ## HACKATHON HOWTO:
 
