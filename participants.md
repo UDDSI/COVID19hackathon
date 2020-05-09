@@ -1,4 +1,4 @@
-![hackathon Logo](images/Count of Expertise that might be useful.png)
+![hackathon Logo](images/Count\ of\ Expertise\ that\ might\ be\ useful.png)
 
 ![hackathon Logo](images/Count of Department or School.png)	
 
