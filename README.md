@@ -61,3 +61,5 @@ The hackathon begins with "pitches": if you have an idea this is your chance to 
 Though you do not have to, you are all encouraged to pitch an idea!! Even if you have not thought about it till the day before!
 
 [Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event and join our [slack](https://join.slack.com/t/udcovidhackathon/shared_invite/zt-dwgjrohv-b3MCkdDFk5fokbjdzMFuSA)
+
+**more info** [here](https://slides.com/federicabianco/ud-covid-hackathon)
