@@ -1,4 +1,4 @@
-!(img)[Count of Expertise that might be useful.png]
-Count of Department or School.png	
-Count of Preferred pronoun.png	
-tracks you are interested in.png
+![img](images/Count of Expertise that might be useful.png)
+![img](images/Count of Department or School.png)	
+![img](images/Count of Preferred pronoun.png)
+![img](images/tracks you are interested in.png)
